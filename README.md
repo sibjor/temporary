@@ -1,5 +1,4 @@
 ```mermaid
-
 ---
 config:
   theme: redux
@@ -46,5 +45,4 @@ flowchart TD
     ø --> Ä
     1("Visit Home Base") <--> Ä
     Ä <--> 2("Reach Destination?")
-    
     ```
